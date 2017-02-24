@@ -1,4 +1,4 @@
-// These two have the same value I took 
+// These two have the same value I took s1 & s2
 new String("same").equals("same") // --> true 
 
 // ... but they are not the same object
